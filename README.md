@@ -19,6 +19,9 @@ Techs are
 
 Feel free to ask for any other tech/language you wanna use. React is a most, but if you don't like **TS** or **JS** instaed.
 
+**Never** delete you branch after merge.
+Leave a comment on your PR.
+
 ### When you commit
 
 In your commit message you wanna include:

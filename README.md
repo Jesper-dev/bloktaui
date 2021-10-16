@@ -17,7 +17,7 @@ Techs are
 - React
 - Sass
 
-Feel free to ask for any other tech/language you wanna use. React is a most, but if you don't like **TS** or **JS** instaed.
+Feel free to ask for any other tech/language you wanna use. React is a most, but for example if you don't like **TS** you can use **JS** instaed.
 
 **Never** delete you branch after merge.
 Leave a comment on your PR.

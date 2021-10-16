@@ -11,13 +11,21 @@ Anyone can contribute. If you wanna learn open-source or just want some new proj
 - When you are done, create a PR
 - Have fun
 
+Techs are
+
+- TypeScript
+- React
+- Sass
+
+Feel free to ask for any other tech/language you wanna use. React is a most, but if you don't like **TS** or **JS** instaed.
+
 ### When you commit
 
 In your commit message you wanna include:
 
 - The name of the task you just created (example: UI-001)
 - What you did
-- You can think, **If applied, this commit will** and then you message.
+- You can think, **If applied, this commit will** and then your message.
 
 Example 1:
 UI-002 (**If applied, this commit will**) add a flex component
@@ -25,7 +33,7 @@ UI-002 (**If applied, this commit will**) add a flex component
 Example 2:
 UI-060 (**If applied, this commit will**) change testPlayground.tsx styling
 
-See example map for how to set up a `component` folder.
+See src/example for how to set up a `component` folder.
 
 ## Discord
 
